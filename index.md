@@ -4,8 +4,7 @@ title-slide-attributes:
 - data-background-size: cover
 - data-background-opacity: 0.18
 - data-background-color: aquamarine
-title: En busca de la coherencia metodológica en la educación de emergencia: a través de la resolución de problemas en
-matemáticas.
+title: En busca de la coherencia metodológica en la educación de emergencia: a través de la resolución de problemas en matemáticas.
 subtitle:
 author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> CPI Val de la Atalaya y Universidad de Zaragoza <br> Ana Martínez Pérez <br> Jornada Pensadero (2020)  <br> Fundación Promaestro  <br> 24 de octubre de 2020 <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
 rollingLinks: true
