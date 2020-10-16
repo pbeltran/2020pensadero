@@ -4,11 +4,12 @@ title-slide-attributes:
 - data-background-size: cover
 - data-background-opacity: 0.18
 - data-background-color: aquamarine
-title: En busca de la coherencia metodológica en la educación de emergencia: a través de la resolución de problemas en matemáticas.
-subtitle:
-author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> CPI Val de la Atalaya y Universidad de Zaragoza <br> Ana Martínez Pérez <br> Jornada Pensadero (2020)  <br> Fundación Promaestro  <br> 24 de octubre de 2020 <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
+title: En busca de la coherencia metodológica en la educación de emergencia 
+subtitle: A través de la resolución de problemas en matemáticas
+author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer¹ ² </a> & <a href=""> Ana Martínez Pérez¹</a> <br> ¹CPI Val de la Atalaya (María de Huerva, Zaragoza), ²Universidad de Zaragoza <br> Jornada Pensadero - Fundación Promaestro  <br> 24 de octubre de 2020 <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
 rollingLinks: true
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 
+
 ---
 
 # Acceso a la presentación {data-background-image="assets/computer.jpg" data-background-opacity="0.18"}
@@ -17,18 +18,17 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ![](assets/qr.png){width=45%}
 
-[https://pbeltran.github.io/2020-mguzman-rpstat](https://pbeltran.github.io/2020-mguzman-rpstat)
+[https://pbeltran.github.io/2020pensadero](https://pbeltran.github.io/2020pensadero)
 
 # Introducción {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
 ## Contenidos del taller {data-background-image="assets/intro.jpg" data-background-opacity="0.15"}
 
-> Se trata de explorar una propuesta virtual que, con sus limitaciones evidentes, intenta ser coherente con un enfoque de enseñanza y aprendizaje a través de la resolución de problemas.
+> ¿Eres profesor, estás comprometido con una educación inclusiva, equitativa y de calidad y quieres reflexionar con otros docentes sobre alguna de las prácticas educativas que has llevado a cabo durante el confinamiento? La Fundación Promaestro te invita a compartir tu experiencia en la JORNADA PENSADERO.
 
-1. Esta introducción, que continúa exponiendo brevemente qué es esto del _a través_ de la resolución de problemas.
-2. ¿Cuál es el que no encaja? Aquí la tarea consiste en diseñar un WODB, proponerlo en el foro y contestar, por lo menos, a cuatro compañeros.
-3. Una actividad sobre dispersión, donde la tarea a completar es grabar un vídeo de 3-5 minutos.
-4. Charlas de aula sobre gráficos estadísticos: qué pasa con este gráfico y gráficos que se revelan poco a poco. Aquí hay que elegir uno de los tipos de actividad para hacer la tarea, que consiste en entregar un pequeño documento.
+1. Criterios de observación.
+2. Procesos de validación.
+3. Impacto educativo generado.
 
 
 ## Enseñanza a través de la resolución de problemas {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
