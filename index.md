@@ -6,33 +6,20 @@ title-slide-attributes:
 - data-background-color: aquamarine
 title: En busca de la coherencia metodológica en la educación de emergencia 
 subtitle: A través de la resolución de problemas en matemáticas
-author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer¹ ² </a> & <a href=""> Ana Martínez Pérez¹</a> <br> ¹CPI Val de la Atalaya (María de Huerva, Zaragoza), ²Universidad de Zaragoza <br> Jornada Pensadero - Fundación Promaestro  <br> 24 de octubre de 2020 <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
+author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer¹ ² </a> & <a href=""> Ana Martínez Pérez¹</a> <br> ¹CPI Val de la Atalaya (María de Huerva, Zaragoza), ²Universidad de Zaragoza <br> Jornada Pensadero - Fundación Promaestro  <br> 24 de octubre de 2020 <br> <img src="assets/qr.png" align="center" style="padding-right:0px" height="180px"> <br>  <a href="https://pbeltran.github.io/2020pensadero">https://pbeltran.github.io/2020pensadero</a> <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px"> 
 rollingLinks: true
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 
 
 ---
 
-# Acceso a la presentación {data-background-image="assets/computer.jpg" data-background-opacity="0.18"}
-
-## {data-background-image="assets/computer.jpg" data-background-opacity="0.18"}
-
-![](assets/qr.png){width=45%}
-
-[https://pbeltran.github.io/2020pensadero](https://pbeltran.github.io/2020pensadero)
-
 # Introducción {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-## Contenidos del taller {data-background-image="assets/intro.jpg" data-background-opacity="0.15"}
+## Enseñanza a través de la resolución de problemas {data-background-image="assets/intro.jpg" data-background-opacity="0.15"}
 
 > ¿Eres profesor, estás comprometido con una educación inclusiva, equitativa y de calidad y quieres reflexionar con otros docentes sobre alguna de las prácticas educativas que has llevado a cabo durante el confinamiento? La Fundación Promaestro te invita a compartir tu experiencia en la JORNADA PENSADERO.
 
-1. Criterios de observación.
-2. Procesos de validación.
-3. Impacto educativo generado.
 
-
-## Enseñanza a través de la resolución de problemas {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
-
+## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 :::::::::::::: {.columns}
 
 ::: {.column width="25%"}
@@ -50,7 +37,7 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ::::::::::::::
 
-## Enseñanza a través de la resolución de problemas {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -70,24 +57,51 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ## Nuestra preocupación y la estrategia seguida
 
+> ¿Cómo mantener activo al alumnado? ¿Cómo seguir trabajando la capacidad de indagación? ¿Cómo seguir desarrollando esa **actitud matemática**?
+
+- Agrupación por nivel. 
+	- Una clase virtual para todo 1º ESO y otra clase virtual para todo 2º ESO.
+	- Oportunidad para la codocencia.
+
+## Nuestra preocupación y la estrategia seguida
+
+- Una videoconferencia conjunta para planificar una semana de trabajo y otra para discutir las producciones que habían enviado los alumnos y preparar la puesta en común.
+- Puestas en común: se reservaron los jueves como día para una videoconferencia donde se interactuaba con los alumnos. 
+- Tareas semanales y autoevaluaciones. Después de cada videoconferencia, los alumnos hacían reentrega final de lo ya hecho, y recibían nuevas tareas, entre ellas, completar la autoevaluación. 
+
+# Criterios de observación
+
+## Cantidad de tareas
+
+## Las autoevaluaciones, el eje de la práctica
+
+Consistían en: 
+
+1. Necesito más tiempo para entender esto o necesito un ejemplo delante para poder hacerlo
+2. Puedo hacer esto por mi cuenta, pero hay cosas que no entiendo, me falta una explicación y/o estoy cometiendo errores de cálculo.
+3. Puedo hacer esto por mi cuenta sin errores y explicar o mostrar cómo lo resolví.
+4. Puedo hacer esto por mi cuenta sin errores, explicar o mostrar cómo lo resolví, y explicar qué significa mi solución o hacer alguna observación adicional. 
+
+> Además, tenían que escribir un párrafo donde describían sus dificultades; otro con lo que aprendieron; otro con lo que les gustaría aprender. La autoevaluación tenía que estar completa, si no se devolvía al alumno. 
 
 
-- Agrupación por nivel. Una clase virtual para todo 1º ESO y otra clase virtual para todo 2º ESO. Los dos profesores trabajamos en codocencia, dedicando, semanalmente, una sesión de videoconferencia conjunta para planificar una semana de trabajo, y otra para discutir las producciones que habían enviado los alumnos y preparar la puesta en común.
-- Puestas en común: se reservaron los jueves como día para una videoconferencia donde se interactuaba con los alumnos, proporcionando feedback sobre sus producciones.
-- Tareas semanales y autoevaluaciones. Después de cada videoconferencia, los alumnos hacían reentrega final de lo ya hecho, y recibían nuevas tareas, entre ellas, completar la autoevaluación. Esta consistía en: 1) Necesito más tiempo para entender esto o necesito un ejemplo delante para poder hacerlo; 2) Puedo hacer esto por mi cuenta, pero hay cosas que no entiendo, me falta una explicación y/o estoy cometiendo errores de cálculo; 3) Puedo hacer esto por mi cuenta sin errores y explicar o mostrar cómo lo resolví; 4) Puedo hacer esto por mi cuenta sin errores, explicar o mostrar cómo lo resolví, y explicar qué significa mi solución o hacer alguna observación adicional. Además, tenían que escribir un párrafo donde describían sus dificultades; otro con lo que aprendieron; otro con lo que les gustaría aprender. La autoevaluación tenía que estar completa, si no se devolvía al alumno. 
+
+## Autoevaluaciones
 
 
-## Criterios de observación
+# Retos y dificultades
 
-Autoevaluaciones ...
-
-## Procesos de validación
+## 
 
 
 
-## Impacto educativo generado.
+# Procesos de validación e impacto educativo generado
 
-Niveles de interacción ahora
+## Niveles de interacción ahora
+
+- Ahora es imposible trabajar en mesas enfrentadas y/o agrupadas, por lo que hay que interactuar a distancia. 
+- Parejas o grupos de cuatro alumnos, tal y como están sentados habitualmente.
+- Ayuda de una pizarrita blanca para enseñar lo que se está haciendo.
 
 
 
