@@ -96,7 +96,7 @@ Después, le propusimos pensar acerca del porqué de que ocurra, que implica pro
 3. Puedo hacer esto por mi cuenta sin errores y explicar o mostrar cómo lo resolví.
 4. Puedo hacer esto por mi cuenta sin errores, explicar o mostrar cómo lo resolví, y explicar qué significa mi solución o hacer alguna observación adicional. 
 
-> Además, tenían que escribir un párrafo donde describían sus dificultades; otro, con lo que aprendieron; y otro, con lo que les gustaría aprender. La autoevaluación **tenía que estar completa**, si no se devolvía al alumno. 
+> Además, tenían que escribir un párrafo donde describían sus dificultades; otro, con lo que aprendieron; y otro, con lo que les gustaría aprender. La autoevaluación **tenía que estar completa**, si no, se devolvía al alumno. 
 
 
 ## Autoevaluaciones: percepción del alumnado {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
