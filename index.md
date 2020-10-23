@@ -167,6 +167,8 @@ Tarea: Pero...¿qué es un cuadrado? (sobre definiciones)
 
 ## Lista de referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
+Burnett, A. (2019). How to Create a Gradeless Math Classroom in a School That Requires Grades. [Entrada de blog]. [Enlace](https://burnettmath.wordpress.com/2019/07/17/how-to-create-a-gradeless-math-classroom-in-a-school-that-requires-grades-updated-from-original-post/)
+
 Cai, J. (2003). What research tells us about teaching mathematics through problem solving. Research and issues in teaching mathematics through problem solving, 241-254.
 
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L.D. English, & D. Kirshner, _Handbook of international research in mathematics education_ (p. 326). New York: Routledge.
