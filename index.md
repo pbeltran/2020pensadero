@@ -12,7 +12,7 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ---
 
-# Introducción {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+# Introducción {data-background-image="assets/intro.jpg" data-background-opacity="0.22"}
 
 
 ## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
@@ -51,7 +51,7 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ::::::::::::::
 
-## Nuestra preocupación y la estrategia seguida
+## Nuestra preocupación y la estrategia seguida {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
 > ¿Cómo mantener activo al alumnado? ¿Cómo seguir trabajando la capacidad de indagación? ¿Cómo seguir desarrollando esa **actitud matemática**?
 
@@ -59,19 +59,19 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 	- Una clase virtual para todo 1º ESO y otra clase virtual para todo 2º ESO.
 	- Oportunidad para la codocencia.
 
-## Nuestra preocupación y la estrategia seguida
+## Nuestra preocupación y la estrategia seguida {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
 - Una videoconferencia conjunta para planificar una semana de trabajo y otra para discutir las producciones que habían enviado los alumnos y preparar la puesta en común.
 - Puestas en común: se reservaron los jueves como día para una videoconferencia donde se interactuaba con los alumnos. 
 - Tareas semanales y autoevaluaciones. Después de cada videoconferencia, los alumnos hacían reentrega final de lo ya hecho, y recibían nuevas tareas, entre ellas, completar la autoevaluación. 
 
-# Criterios de observación
+# Criterios de observación {data-background-image="assets/observation.jpg" data-background-opacity="0.22"}
 
-## Producciones del alumnado
+## Producciones del alumnado {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/acti1.png){width=100%}
 
-## Atención a la diversidad
+## Atención a la diversidad {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 En una de las actividades, se trata de averiguar el circuncentro de algunos cuadriláteros: cuadrado, rectángulo, trapecio isósceles, trapecio rectángulo.
 
@@ -80,7 +80,7 @@ Una alumna realizó la siguiente observación:
 
 ![](assets/images/fig1.png){width=80%}
 
-## Atención a la diversidad
+## Atención a la diversidad {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 En clase presencial puedes animar a los alumnos a realizar este tipo de observaciones, eligiendo bien las preguntas. Por eso nos alegramos de ver esto en formato online. Le preguntamos que cómo podía estar segura de lo que decía y que se animara a utilizar las herramientas de geogebra.
 
@@ -89,7 +89,7 @@ En clase presencial puedes animar a los alumnos a realizar este tipo de observac
 Después, le propusimos pensar acerca del porqué de que ocurra, que implica propiedades de la mediatriz y de ángulos, así como aspectos de perpendicularidad y semejanza.
 
 
-## Las autoevaluaciones, el eje de la práctica
+## Las autoevaluaciones, el eje de la práctica {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 1. Necesito más tiempo para entender esto o necesito un ejemplo delante para poder hacerlo
 2. Puedo hacer esto por mi cuenta, pero hay cosas que no entiendo, me falta una explicación y/o estoy cometiendo errores de cálculo.
@@ -99,7 +99,7 @@ Después, le propusimos pensar acerca del porqué de que ocurra, que implica pro
 > Además, tenían que escribir un párrafo donde describían sus dificultades; otro con lo que aprendieron; otro con lo que les gustaría aprender. La autoevaluación tenía que estar completa, si no se devolvía al alumno. 
 
 
-## Autoevaluaciones: percepción del alumnado
+## Autoevaluaciones: percepción del alumnado {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 > Esto son dos ejemplos de autoevaluación.
 
@@ -123,25 +123,25 @@ Tarea: Pero...¿qué es un cuadrado? (sobre definiciones)
 
 ::::::::::::::
 
-## Autoevaluaciones: dificultades
+## Autoevaluaciones: dificultades {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/dificultades.png){width=100%}
 
 
-## Autoevaluaciones: ¿qué he aprendido?
+## Autoevaluaciones: ¿qué he aprendido? {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/aprendido.png){width=100%}
 
 
-## Autoevaluaciones: ¿Qué me gustaría aprender? 
+## Autoevaluaciones: ¿Qué me gustaría aprender? {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/gustaria.png){width=100%}
 
 
-# Retos y dificultades
+# Retos y dificultades {data-background-image="assets/retos.jpg" data-background-opacity="0.22"}
 
-## Retos y dificultades
-
+## Retos y dificultades {data-background-image="assets/retos.jpg" data-background-opacity="0.12"}
+ 
 - Menor interacción.
 - Atención a la diversidad. 
 - Pérdida de control del grado de ayuda que reciben en casa.
@@ -149,10 +149,9 @@ Tarea: Pero...¿qué es un cuadrado? (sobre definiciones)
 ![](assets/images/tareas.png){width=80%}
 
 
+# Procesos de validación e impacto educativo generado {data-background-image="assets/horizon.jpg" data-background-opacity="0.22"}
 
-# Procesos de validación e impacto educativo generado
-
-## Niveles de interacción ahora
+## Niveles de interacción ahora {data-background-image="assets/horizon.jpg" data-background-opacity="0.12"}
 
 > Queda pendiente analizar el impacto educativo. Hasta ahora, la percepción es que este alumnado interactúa y presenta una actitud más proactiva ahora que a principios del curso pasado. 
 
@@ -160,7 +159,9 @@ Tarea: Pero...¿qué es un cuadrado? (sobre definiciones)
 - Parejas o grupos de cuatro alumnos, tal y como están sentados habitualmente.
 - Ayuda de una pizarrita blanca para enseñar lo que se está haciendo.
 
+. . .
 
+![](assets/end.jpg){width=30%}
 
 # Créditos y referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
@@ -169,8 +170,6 @@ Tarea: Pero...¿qué es un cuadrado? (sobre definiciones)
 Cai, J. (2003). What research tells us about teaching mathematics through problem solving. Research and issues in teaching mathematics through problem solving, 241-254.
 
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L.D. English, & D. Kirshner, _Handbook of international research in mathematics education_ (p. 326). New York: Routledge.
-
-## {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
 Gaulin, C. (2001). Tendencias actuales de la resolución de problemas. _Sigma, 19_, 51-63. [Enlace](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
 
@@ -181,7 +180,7 @@ _Compartir el conocimiento de forma libre es una buena práctica._
 
 En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y Ana Isabel Martínez Pérez) y poniendo un enlace a la presentación.
 
-_Siéntete libre de trabajar con este material y de contactar con nosotros para compartir tus reflexiones._
+> Siéntete libre de trabajar con este material y de contactar con nosotros para compartir tus reflexiones.
 
 ## {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
