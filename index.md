@@ -26,8 +26,8 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ::: {.column width="70%"}
 
-- Sintetizando mucho, este enfoque consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) para que emerja el contenido matemático. 
-- Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente proporciona un andamiaje para profundizar en dichos contenidos, siempre a partir de los significados personales de los alumnos.
+- Sintetizando mucho, este enfoque consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) de los que emerge el contenido matemático. 
+- Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente proporciona un andamiaje para profundizar en dichos contenidos, siempre a partir de los significados personales del alumnado.
 
 :::
 
