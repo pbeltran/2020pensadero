@@ -137,6 +137,34 @@ Tarea: Pero...¿qué es un cuadrado? (sobre definiciones)
 
 ![](assets/images/gustaria.png){width=100%}
 
+## Encuesta final: forma de trabajar {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
+
+Algunas respuestas del alumnado
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+> Antes de marzo
+
+- Trabajábamos en grupos y así nos podíamos ayudar entre nosotros, y también las dudas que se habían planteado varias veces, se discutían con toda la clase.
+- A mi me gustaba mucho porque lo hacíamos todo en equipo y era la única clase que compartíamos nuestra opinión con nuestros compañeros
+
+:::
+
+::: {.column width="45%"}
+
+> Después de marzo
+
+- Se ha intentado hacer como en clase, que sea interactivo y que nos hiciera pensar pero el trabajo ha sido más individual
+- Parecido a clase pero más entretenido al usar aplicaciones
+- Parecido a lo que hacíamos en clase pero en lugar de comentarlo en grupo, lo teníamos que hacer solos, intentando llegar a las soluciones poco a poco.
+
+:::
+
+::::::::::::::
+
+
 
 # Retos y dificultades {data-background-image="assets/retos.jpg" data-background-opacity="0.22"}
 
